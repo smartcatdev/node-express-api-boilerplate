@@ -2,7 +2,7 @@
   "name": "companii-api-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "lint": "npx eslint --fix",
     "dev": "nodemon ./server.js",
